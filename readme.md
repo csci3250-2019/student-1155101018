@@ -23,3 +23,4 @@ Hello everyone! I am **Johnson Ka Kit Chan (SID: 1155101018)** 🐷 , a **Year 2
 - [ ] Milestone #3  3️⃣
 
 ### 💾 Milestone #2 Screenshot 💾 ###
+![alt text](https://github.com/csci3250-2019/student-1155101018/blob/master/screenshot.png)
